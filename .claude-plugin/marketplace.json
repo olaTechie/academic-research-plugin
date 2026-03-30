@@ -13,7 +13,7 @@
       "name": "academic-research",
       "description": "Deep research (13-agent pipeline), academic paper writing (12-agent pipeline), multi-perspective paper review (7-agent pipeline), and full research-to-publication pipeline orchestrator",
       "source": "./",
-      "strict": false,
+      "strict": true,
       "commands": "./commands",
       "skills": [
         "./skills/deep-research",
