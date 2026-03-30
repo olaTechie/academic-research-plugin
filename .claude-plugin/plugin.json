@@ -1,0 +1,23 @@
+{
+  "name": "academic-research",
+  "version": "1.0.0",
+  "description": "Comprehensive academic research and paper writing toolkit. Includes deep research (13-agent pipeline), academic paper writing (12-agent pipeline), multi-perspective paper review (7-agent pipeline), and a full research-to-publication pipeline orchestrator.",
+  "author": {
+    "name": "Ola",
+    "email": "olatechie.ai@gmail.com"
+  },
+  "repository": "https://github.com/olaTechie/academic-research-skills",
+  "license": "MIT",
+  "keywords": [
+    "academic",
+    "research",
+    "paper-writing",
+    "peer-review",
+    "systematic-review",
+    "meta-analysis",
+    "literature-review",
+    "APA",
+    "PRISMA",
+    "LaTeX"
+  ]
+}
