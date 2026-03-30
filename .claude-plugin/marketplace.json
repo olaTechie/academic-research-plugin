@@ -1,0 +1,26 @@
+{
+  "name": "academic-research-plugin",
+  "owner": {
+    "name": "Ola",
+    "email": "olatechie.ai@gmail.com"
+  },
+  "metadata": {
+    "description": "Comprehensive academic research and paper writing toolkit",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "academic-research",
+      "description": "Deep research (13-agent pipeline), academic paper writing (12-agent pipeline), multi-perspective paper review (7-agent pipeline), and full research-to-publication pipeline orchestrator",
+      "source": "./",
+      "strict": false,
+      "commands": "./commands",
+      "skills": [
+        "./skills/deep-research",
+        "./skills/academic-paper",
+        "./skills/academic-paper-reviewer",
+        "./skills/academic-pipeline"
+      ]
+    }
+  ]
+}
